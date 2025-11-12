@@ -1,6 +1,8 @@
 # 🎮 FinLearn Pro - Gamified Financial Literacy Platform for Gen Z
 
-🌐 **Live Demo**: [https://mohammed-saqhib.github.io/Idea/](https://mohammed-saqhib.github.io/Idea/)
+🌐 **Live Demo**: 1) [https://mohammed-saqhib.github.io/Idea/](https://mohammed-saqhib.github.io/Idea/)
+<br>
+2) https://idea-nu-flame.vercel.app/
 
 A comprehensive, engaging mobile-first platform that teaches Gen Z users about budgeting, saving, and investing through gamification, challenges, and rewards.
 
